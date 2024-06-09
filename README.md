@@ -25,3 +25,6 @@ Install my-project with npm
 
 **Server:** Node, Express, MySQL
 
+## Screenshot
+[Screenshot of Red Crescent Blood Bank Management System is here](FrontEndPhotos)
+
