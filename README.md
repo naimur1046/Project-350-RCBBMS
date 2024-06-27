@@ -31,7 +31,10 @@ This repository contains the code for the Red Crescent Blood Bank Management Sys
 npm run dev
 ```
 ### BackEnd
+
+```bash
 node server.js
+```
 
 ## Screenshots
 [Screenshot of Red Crescent Blood Bank Management System is here](FrontEndPhotos)
